@@ -1,0 +1,20 @@
+[2018-05-19 20:06:35,151] [INFO] [test_server.cc:Mydict:121] Mydict()
+[2018-05-19 20:06:35,152] [INFO] [test_server.cc:AutoRelease:48] AutoRelease()
+[2018-05-19 20:06:47,647] [INFO] [test_server.cc:init:73] /home/jcx/cppgit/Project1/data/mydict.dat
+[2018-05-19 20:06:47,649] [INFO] [test_server.cc:init:74]  
+[2018-05-19 20:06:47,650] [ERROR] [test_server.cc:init:82] dictCn ifstream open error!
+[2018-05-19 20:06:47,967] [INFO] [test_server.cc:process:181] Task is processing.
+[2018-05-19 20:06:48,003] [INFO] [test_server.cc:process:183] 
+[2018-05-19 20:06:48,004] [DEBUG] [test_server.cc:process:203] test3
+[2018-05-19 20:06:52,485] [INFO] [test_server.cc:init:73] /home/jcx/cppgit/Project1/data/mydict.dat
+[2018-05-19 20:06:52,487] [INFO] [test_server.cc:init:74]  
+[2018-05-19 20:06:52,487] [ERROR] [test_server.cc:init:82] dictCn ifstream open error!
+[2018-05-19 20:06:52,701] [INFO] [test_server.cc:process:181] Task is processing.
+[2018-05-19 20:06:52,741] [INFO] [test_server.cc:process:183] a
+[2018-05-19 20:06:52,742] [DEBUG] [test_server.cc:process:203] test3
+[2018-05-19 20:06:54,385] [INFO] [test_server.cc:init:73] /home/jcx/cppgit/Project1/data/mydict.dat
+[2018-05-19 20:06:54,387] [INFO] [test_server.cc:init:74]  
+[2018-05-19 20:06:54,387] [ERROR] [test_server.cc:init:82] dictCn ifstream open error!
+[2018-05-19 20:06:54,599] [INFO] [test_server.cc:process:181] Task is processing.
+[2018-05-19 20:06:54,674] [INFO] [test_server.cc:process:183] yiddish
+[2018-05-19 20:06:54,674] [DEBUG] [test_server.cc:process:203] test3

@@ -1,0 +1,124 @@
+[2018-05-16 01:45:31,667] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:45:31,667] [INFO] [DictProducer.cc:DictProducer:35] debug DictProducer()
+[2018-05-16 01:45:31,667] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:45:33,822] [INFO] [offlinetest.cc:main:23] dict build success!
+[2018-05-16 01:45:33,823] [INFO] [DictProducer.cc:store_index:134] x
+[2018-05-16 01:45:33,826] [INFO] [DictProducer.cc:store_index:134] q
+[2018-05-16 01:45:33,829] [INFO] [DictProducer.cc:store_index:134] w
+[2018-05-16 01:45:33,836] [INFO] [DictProducer.cc:store_index:134] u
+[2018-05-16 01:45:33,840] [INFO] [DictProducer.cc:store_index:134] b
+[2018-05-16 01:45:33,843] [INFO] [DictProducer.cc:store_index:134] v
+[2018-05-16 01:45:33,851] [INFO] [DictProducer.cc:store_index:134] h
+[2018-05-16 01:45:33,854] [INFO] [DictProducer.cc:store_index:134] k
+[2018-05-16 01:45:33,866] [INFO] [DictProducer.cc:store_index:134] n
+[2018-05-16 01:45:33,879] [INFO] [DictProducer.cc:store_index:134] d
+[2018-05-16 01:45:33,888] [INFO] [DictProducer.cc:store_index:134] p
+[2018-05-16 01:45:33,911] [INFO] [DictProducer.cc:store_index:134] i
+[2018-05-16 01:45:33,919] [INFO] [DictProducer.cc:store_index:134] c
+[2018-05-16 01:45:33,930] [INFO] [DictProducer.cc:store_index:134] a
+[2018-05-16 01:45:33,947] [INFO] [DictProducer.cc:store_index:134] g
+[2018-05-16 01:45:33,952] [INFO] [DictProducer.cc:store_index:134] y
+[2018-05-16 01:45:33,962] [INFO] [DictProducer.cc:store_index:134] o
+[2018-05-16 01:45:33,977] [INFO] [DictProducer.cc:store_index:134] s
+[2018-05-16 01:45:34,005] [INFO] [DictProducer.cc:store_index:134] e
+[2018-05-16 01:45:34,022] [INFO] [DictProducer.cc:store_index:134] t
+[2018-05-16 01:45:34,032] [INFO] [DictProducer.cc:store_index:134] m
+[2018-05-16 01:45:34,036] [INFO] [DictProducer.cc:store_index:134] f
+[2018-05-16 01:45:34,045] [INFO] [DictProducer.cc:store_index:134] l
+[2018-05-16 01:45:34,048] [INFO] [DictProducer.cc:store_index:134] j
+[2018-05-16 01:45:34,060] [INFO] [DictProducer.cc:store_index:134] r
+[2018-05-16 01:45:34,060] [INFO] [DictProducer.cc:store_index:134] z
+[2018-05-16 01:45:34,065] [INFO] [offlinetest.cc:main:25] index build success!
+[2018-05-16 01:46:22,765] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:46:22,765] [INFO] [DictProducer.cc:DictProducer:35] debug DictProducer()
+[2018-05-16 01:46:22,766] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:46:25,048] [INFO] [offlinetest.cc:main:23] dict build success!
+[2018-05-16 01:46:25,051] [INFO] [DictProducer.cc:store_index:134] x
+[2018-05-16 01:46:25,051] [INFO] [DictProducer.cc:store_index:134] q
+[2018-05-16 01:46:25,054] [INFO] [DictProducer.cc:store_index:134] w
+[2018-05-16 01:46:25,060] [INFO] [DictProducer.cc:store_index:134] u
+[2018-05-16 01:46:25,065] [INFO] [DictProducer.cc:store_index:134] b
+[2018-05-16 01:46:25,079] [INFO] [DictProducer.cc:store_index:134] v
+[2018-05-16 01:46:25,084] [INFO] [DictProducer.cc:store_index:134] h
+[2018-05-16 01:46:25,086] [INFO] [DictProducer.cc:store_index:134] k
+[2018-05-16 01:46:25,097] [INFO] [DictProducer.cc:store_index:134] n
+[2018-05-16 01:46:25,115] [INFO] [DictProducer.cc:store_index:134] d
+[2018-05-16 01:46:25,121] [INFO] [DictProducer.cc:store_index:134] p
+[2018-05-16 01:46:25,131] [INFO] [DictProducer.cc:store_index:134] i
+[2018-05-16 01:46:25,140] [INFO] [DictProducer.cc:store_index:134] c
+[2018-05-16 01:46:25,159] [INFO] [DictProducer.cc:store_index:134] a
+[2018-05-16 01:46:25,167] [INFO] [DictProducer.cc:store_index:134] g
+[2018-05-16 01:46:25,173] [INFO] [DictProducer.cc:store_index:134] y
+[2018-05-16 01:46:25,196] [INFO] [DictProducer.cc:store_index:134] o
+[2018-05-16 01:46:25,209] [INFO] [DictProducer.cc:store_index:134] s
+[2018-05-16 01:46:25,224] [INFO] [DictProducer.cc:store_index:134] e
+[2018-05-16 01:46:25,234] [INFO] [DictProducer.cc:store_index:134] t
+[2018-05-16 01:46:25,246] [INFO] [DictProducer.cc:store_index:134] m
+[2018-05-16 01:46:25,252] [INFO] [DictProducer.cc:store_index:134] f
+[2018-05-16 01:46:25,261] [INFO] [DictProducer.cc:store_index:134] l
+[2018-05-16 01:46:25,263] [INFO] [DictProducer.cc:store_index:134] j
+[2018-05-16 01:46:25,283] [INFO] [DictProducer.cc:store_index:134] r
+[2018-05-16 01:46:25,285] [INFO] [DictProducer.cc:store_index:134] z
+[2018-05-16 01:46:25,286] [INFO] [offlinetest.cc:main:25] index build success!
+[2018-05-16 01:53:03,625] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:53:03,625] [INFO] [DictProducer.cc:DictProducer:35] debug DictProducer()
+[2018-05-16 01:53:03,625] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:53:05,778] [INFO] [offlinetest.cc:main:23] dict build success!
+[2018-05-16 01:53:05,780] [INFO] [DictProducer.cc:store_index:134] x
+[2018-05-16 01:53:05,782] [INFO] [DictProducer.cc:store_index:134] q
+[2018-05-16 01:53:05,786] [INFO] [DictProducer.cc:store_index:134] w
+[2018-05-16 01:53:05,792] [INFO] [DictProducer.cc:store_index:134] u
+[2018-05-16 01:53:05,795] [INFO] [DictProducer.cc:store_index:134] b
+[2018-05-16 01:53:05,800] [INFO] [DictProducer.cc:store_index:134] v
+[2018-05-16 01:53:05,816] [INFO] [DictProducer.cc:store_index:134] h
+[2018-05-16 01:53:05,820] [INFO] [DictProducer.cc:store_index:134] k
+[2018-05-16 01:53:05,833] [INFO] [DictProducer.cc:store_index:134] n
+[2018-05-16 01:53:05,840] [INFO] [DictProducer.cc:store_index:134] d
+[2018-05-16 01:53:05,854] [INFO] [DictProducer.cc:store_index:134] p
+[2018-05-16 01:53:05,870] [INFO] [DictProducer.cc:store_index:134] i
+[2018-05-16 01:53:05,877] [INFO] [DictProducer.cc:store_index:134] c
+[2018-05-16 01:53:05,894] [INFO] [DictProducer.cc:store_index:134] a
+[2018-05-16 01:53:05,905] [INFO] [DictProducer.cc:store_index:134] g
+[2018-05-16 01:53:05,910] [INFO] [DictProducer.cc:store_index:134] y
+[2018-05-16 01:53:05,921] [INFO] [DictProducer.cc:store_index:134] o
+[2018-05-16 01:53:05,944] [INFO] [DictProducer.cc:store_index:134] s
+[2018-05-16 01:53:05,963] [INFO] [DictProducer.cc:store_index:134] e
+[2018-05-16 01:53:05,989] [INFO] [DictProducer.cc:store_index:134] t
+[2018-05-16 01:53:06,007] [INFO] [DictProducer.cc:store_index:134] m
+[2018-05-16 01:53:06,012] [INFO] [DictProducer.cc:store_index:134] f
+[2018-05-16 01:53:06,028] [INFO] [DictProducer.cc:store_index:134] l
+[2018-05-16 01:53:06,031] [INFO] [DictProducer.cc:store_index:134] j
+[2018-05-16 01:53:06,060] [INFO] [DictProducer.cc:store_index:134] r
+[2018-05-16 01:53:06,080] [INFO] [DictProducer.cc:store_index:134] z
+[2018-05-16 01:53:06,086] [INFO] [offlinetest.cc:main:25] index build success!
+[2018-05-16 01:53:28,211] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:53:28,212] [INFO] [DictProducer.cc:DictProducer:35] debug DictProducer()
+[2018-05-16 01:53:28,212] [INFO] [config.cc:Configuration:29] debug Configuration()
+[2018-05-16 01:53:30,464] [INFO] [offlinetest.cc:main:23] dict build success!
+[2018-05-16 01:53:30,465] [INFO] [DictProducer.cc:store_index:134] x
+[2018-05-16 01:53:30,467] [INFO] [DictProducer.cc:store_index:134] q
+[2018-05-16 01:53:30,470] [INFO] [DictProducer.cc:store_index:134] w
+[2018-05-16 01:53:30,475] [INFO] [DictProducer.cc:store_index:134] u
+[2018-05-16 01:53:30,480] [INFO] [DictProducer.cc:store_index:134] b
+[2018-05-16 01:53:30,499] [INFO] [DictProducer.cc:store_index:134] v
+[2018-05-16 01:53:30,505] [INFO] [DictProducer.cc:store_index:134] h
+[2018-05-16 01:53:30,509] [INFO] [DictProducer.cc:store_index:134] k
+[2018-05-16 01:53:30,526] [INFO] [DictProducer.cc:store_index:134] n
+[2018-05-16 01:53:30,535] [INFO] [DictProducer.cc:store_index:134] d
+[2018-05-16 01:53:30,539] [INFO] [DictProducer.cc:store_index:134] p
+[2018-05-16 01:53:30,553] [INFO] [DictProducer.cc:store_index:134] i
+[2018-05-16 01:53:30,559] [INFO] [DictProducer.cc:store_index:134] c
+[2018-05-16 01:53:30,576] [INFO] [DictProducer.cc:store_index:134] a
+[2018-05-16 01:53:30,582] [INFO] [DictProducer.cc:store_index:134] g
+[2018-05-16 01:53:30,588] [INFO] [DictProducer.cc:store_index:134] y
+[2018-05-16 01:53:30,597] [INFO] [DictProducer.cc:store_index:134] o
+[2018-05-16 01:53:30,620] [INFO] [DictProducer.cc:store_index:134] s
+[2018-05-16 01:53:30,642] [INFO] [DictProducer.cc:store_index:134] e
+[2018-05-16 01:53:30,671] [INFO] [DictProducer.cc:store_index:134] t
+[2018-05-16 01:53:30,678] [INFO] [DictProducer.cc:store_index:134] m
+[2018-05-16 01:53:30,697] [INFO] [DictProducer.cc:store_index:134] f
+[2018-05-16 01:53:30,709] [INFO] [DictProducer.cc:store_index:134] l
+[2018-05-16 01:53:30,711] [INFO] [DictProducer.cc:store_index:134] j
+[2018-05-16 01:53:30,721] [INFO] [DictProducer.cc:store_index:134] r
+[2018-05-16 01:53:30,724] [INFO] [DictProducer.cc:store_index:134] z
+[2018-05-16 01:53:30,731] [INFO] [offlinetest.cc:main:25] index build success!
